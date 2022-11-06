@@ -2,6 +2,16 @@
 
 > https://www.kuroutoshikou.com/product/detail/kuro-dachi-clone-u3.html
 
+## 硬盘克隆必须的条件
+
+- 目标硬盘的容量一定要比来源硬盘的容量更大。
+
+- 如果是容量显示一样，但是因为坏块标记之后，可能导致目标硬盘的容量比来源硬盘稍微小的现象。
+
+  可以用Windows的硬盘工具，把来源硬盘的结尾部分隐藏一部分；
+
+  可控制后，再把目标硬盘的结尾部分扩张出来。
+
 コピー対応 USB3.0接続 3.5/2.5型 SATA SSD/HDDx2 スタンド(シルバー)
 
 ![img](https://www.kuroutoshikou.com/webpim/product/image/k/kuro-dachi_clone_u3/kuro-dachi_clone_u3/kuro-dachi_clone_u3__0100.jpg)
