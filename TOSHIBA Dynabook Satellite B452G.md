@@ -71,6 +71,8 @@
   ```
   can not determine the mainboard
   ```
+  
+  ※原因：下载了错我的电脑的BIOS更新程序。
 
 - dynabook Satellite B652/G、B552/G、B452/G シリーズ Windows 7 Professional SP1 64bit アップグレードモジュール
 
