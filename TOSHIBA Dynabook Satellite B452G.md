@@ -66,7 +66,9 @@
   can not determine the mainboard
   ```
 
-  
+- dynabook Satellite B652/G、B552/G、B452/G シリーズ Windows 7 Professional SP1 64bit アップグレードモジュール
+
+  https://dynabook.com/assistpc/download/win7/navigate/satellite/b652g/sp1/64bit/sab652gread7sp164.htm?qry=.%2F%3Ffunc%3Dpi%26category%3D131020%26keyword%3DSatellite%2BB452
 
 Windows10的话，几乎所有硬件都可以自动识别出来，Windows7 的话，首先无线网卡就无法识别，首先是有网络之后，才能干其它的事情。
 
