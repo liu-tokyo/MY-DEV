@@ -52,7 +52,21 @@
 
 - TOSHIBA官方下载：
 
+  Windows 8.1
+
   https://dynabook.com/assistpc/osup/windows81/manu/list/b452g.htm
+
+  Windows 7 with SP1
+
+  https://dynabook.com/assistpc/download/win7/navigate/satellite/b652f/sp1/64bit/sab652fread7sp164.htm
+
+- BIOS更新的时候，出现如下错误：
+
+  ```
+  can not determine the mainboard
+  ```
+
+  
 
 Windows10的话，几乎所有硬件都可以自动识别出来，Windows7 的话，首先无线网卡就无法识别，首先是有网络之后，才能干其它的事情。
 
