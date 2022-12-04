@@ -60,7 +60,11 @@
 
   https://dynabook.com/assistpc/download/win7/navigate/satellite/b652f/sp1/64bit/sab652fread7sp164.htm
 
-- BIOS更新的时候，出现如下错误：
+- BIOS更新链接
+
+  https://dynabook.com/assistpc/download/modify/dynabook/t552/xxg/bios/index_j.htm
+
+  BIOS更新的时候，出现如下错误：
 
   ```
   can not determine the mainboard
