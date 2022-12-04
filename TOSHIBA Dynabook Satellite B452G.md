@@ -26,13 +26,14 @@
 
 ### 2. CPU跑分
 
-| CPU型号                         | BenchMarks跑分 |                                       |
-| ------------------------------- | -------------- | ------------------------------------- |
-| Intel Core2 Duo P8700 @ 2.53GHz | 968            | **CPU First Seen on Charts:** Q1 2009 |
-| Intel Core i3-3110M @ 2.40GHz   | 1627           | **CPU First Seen on Charts:** Q3 2012 |
-| Intel Celeron B830 @ 1.80GHz    | **814**        | **CPU First Seen on Charts:** Q1 2012 |
+| CPU型号                           | BenchMarks跑分 |                                       |
+| --------------------------------- | -------------- | ------------------------------------- |
+| Celeron Dual-Core T3100 @ 1.90GHz | 557            | CPU First Seen on Charts: Q4 2009     |
+| Intel Core2 Duo P8700 @ 2.53GHz   | 968            | CPU First Seen on Charts: Q1 2009     |
+| Intel Core i3-3110M @ 2.40GHz     | 1627           | CPU First Seen on Charts: Q3 2012     |
+| Intel Celeron B830 @ 1.80GHz      | **814**        | **CPU First Seen on Charts:** Q1 2012 |
 
-### 2. 设备评价
+### 3. 设备评价
 
 用作办公还能勉强用，对专业人士来说，没有任何价值。
 
@@ -41,8 +42,17 @@
 - 内存升级：2GB → 8GB
 - 硬盘类型：机械硬盘 → SSD（只能一块硬盘，SATA接口的2.5英寸硬盘）
 
-### 扩展
+### 4. 设备扩展
 
 1. 只有一个 SATA 的硬盘位，主板上没有 M.2 接口。
 
    实在想要安装 M.2 接口的固态硬盘，只能用转换设备，转为 SATA 接口方式。
+
+### 5. 驱动下载
+
+- TOSHIBA官方下载：
+
+  https://dynabook.com/assistpc/osup/windows81/manu/list/b452g.htm
+
+Windows10的话，几乎所有硬件都可以自动识别出来，Windows7 的话，首先无线网卡就无法识别，首先是有网络之后，才能干其它的事情。
+
