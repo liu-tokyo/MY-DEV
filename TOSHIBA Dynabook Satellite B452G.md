@@ -13,7 +13,7 @@
 | 生产日期                          | 2012年                                                       |                     |
 | CPU                               | Celeron® プロセッサーB830                                    | BenchMarks：**814** |
 | 内存                              | Crucial 4GB DDR3L-1600 SODIMM                                |                     |
-|                                   | 標準/最大：2GB（2GB×1）／8GB                                 |                     |
+|                                   | 標準/最大：2GB（2GB×1）／8GB                                 | 升级4GB             |
 |                                   | 仕様：**PC3-10600**（DDR3-1333）対応 SDRAM、デュアルチャネル対応 |                     |
 |                                   | メモリ専用スロット：2スロット（空きスロット×1）              |                     |
 | チップセット                      | モバイル インテル® HM70 Express チップセット                 |                     |
@@ -35,7 +35,7 @@
 
 ### 3. 设备评价
 
-用作办公还能勉强用，对专业人士来说，没有任何价值。
+用作办公还能勉强用，对专业人士来说，没有任何价值。2012年的CPU，虽然性能不行，但是开机速度还算很快，20秒就能开机结束。
 
 **建议：**
 
@@ -69,6 +69,10 @@
   ```
   can not determine the mainboard
   ```
+
+  下载的主板驱动有问题，正确的链接如下：
+
+  https://dynabook.com/assistpc/download/modify/sate/b652/xxf/bios/index_j.htm
 
 - dynabook Satellite B652/G、B552/G、B452/G シリーズ Windows 7 Professional SP1 64bit アップグレードモジュール
 
