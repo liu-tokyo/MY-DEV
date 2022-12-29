@@ -3,6 +3,10 @@
 > 这款机器是不附带 **M.2** 固态硬盘接口的，机器只有一个 SATA 硬盘位，可以将机械硬盘替换成 SATA 接口的固态硬盘。
 >
 > 型号：20DC-CT01WW
+>
+> Memory Support: Max. Memory Size: 16 GB (DDR3L 1333/1600, LPDDR3 1333/1600)  
+> Socket: FCBGA1168  
+> Typical TDP: 15 W
 
 ### 设备规格
 
@@ -33,6 +37,8 @@
 ### 驱动更新
 
 > 官方网址：https://pcsupport.lenovo.com/jp/ja/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-e450/downloads/driver-list
+>
+> 联想驱动工具：https://newsupport.lenovo.com.cn/driveDownloads_index.html
 
 Windows 10 22H2 安装之后，至少如下驱动需要更新：
 
@@ -41,4 +47,14 @@ Windows 10 22H2 安装之后，至少如下驱动需要更新：
 | PCIデータ取得およびシグナル処理コントローラー |                  |          |
 | SMバスコントローラー                          |                  |          |
 | 电池显示无法充电                              | 电池电芯驱动更新 |          |
+
+## CPU升级
+
+**Socket: FCBGA1168**
+
+| 可以升级CPU型号               | 跑分 | 生产日期 | 功率TDP |
+| ----------------------------- | ---- | -------- | ------- |
+| Intel Core i3-4005U @ 1.70GHz | 1647 | Q1 2014  | 15 W    |
+| Intel Core i7-5500U @ 2.40GHz | 2752 | Q1 2015  | 15 W    |
+|                               |      |          |         |
 
