@@ -38,17 +38,18 @@
 
 > 官方网址：https://pcsupport.lenovo.com/jp/ja/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-e450/downloads/driver-list
 >
-> 联想驱动工具：https://newsupport.lenovo.com.cn/driveDownloads_index.html
+> 联想驱动工具：https://newsupport.lenovo.com.cn/driveDownloads_index.html  
+> 　　需要把内核语言修改为 中文简体 之后，再安装该工具比较合适，否则可能出现乱码。好像是多虑了，最新版本已经能够对应日文。
 
 Windows 10 22H2 安装之后，至少如下驱动需要更新：
 
-| 驱动问题                                      | 说明             | 解决办法 |
-| --------------------------------------------- | ---------------- | -------- |
-| PCIデータ取得およびシグナル処理コントローラー |                  |          |
-| SMバスコントローラー                          |                  |          |
-| 电池显示无法充电                              | 电池电芯驱动更新 |          |
+| 驱动问题                                      | 说明                 | 解决办法 |
+| --------------------------------------------- | -------------------- | -------- |
+| PCIデータ取得およびシグナル処理コントローラー | 联想驱动工具可以解决 |          |
+| SMバスコントローラー                          | 联想驱动工具可以解决 |          |
+| 电池显示无法充电                              | 电池电芯驱动更新     |          |
 
-## CPU升级
+### CPU升级
 
 **Socket: FCBGA1168**
 
@@ -58,3 +59,4 @@ Windows 10 22H2 安装之后，至少如下驱动需要更新：
 | Intel Core i7-5500U @ 2.40GHz | 2752 | Q1 2015  | 15 W    |
 |                               |      |          |         |
 
+二手市场很难找到 低电压版 的 CPU 。
