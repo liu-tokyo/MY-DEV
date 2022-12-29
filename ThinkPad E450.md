@@ -1,6 +1,8 @@
 ## ThinkPad E450
 
 > 这款机器是不附带 **M.2** 固态硬盘接口的，机器只有一个 SATA 硬盘位，可以将机械硬盘替换成 SATA 接口的固态硬盘。
+>
+> 型号：20DC-CT01WW
 
 ### 设备规格
 
@@ -25,4 +27,18 @@
 | Intel Core i3-4005U @ 1.70GHz | **1645** | CPU First Seen on Charts: Q1 2014 |
 | -                             |          |                                   |
 | -                             |          |                                   |
+
+
+
+### 驱动更新
+
+> 官方网址：https://pcsupport.lenovo.com/jp/ja/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-e450/downloads/driver-list
+
+Windows 10 22H2 安装之后，至少如下驱动需要更新：
+
+| 驱动问题                                      | 说明             | 解决办法 |
+| --------------------------------------------- | ---------------- | -------- |
+| PCIデータ取得およびシグナル処理コントローラー |                  |          |
+| SMバスコントローラー                          |                  |          |
+| 电池显示无法充电                              | 电池电芯驱动更新 |          |
 
