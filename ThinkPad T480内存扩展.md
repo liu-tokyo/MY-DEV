@@ -70,7 +70,18 @@
 
   ![img](https://blog.kabocy.com/wp-dir/wp-content/uploads/2020/11/IMG_4943_R-1024x683.jpg)
 
-  
+
+### 1.4 最大 64GB 内存支持
+
+不管是 Lenovo 的官网、还是 Intel 的官网，i5-8250u 支持的最大内存都是 32GB。但是个别网站给的说明却是可以支持最大 64GB 的内存。
+
+- https://www.compuram.biz/memory/lenovo/notebook/thinkpad/e-series/e480/64gb-dual-channel-memory-kit-xb13d.htm
+
+  为啥会出现内存容量较官方资料更高？
+  https://www.compuram.de/blog/en/maximise-the-maximum/
+
+  大部分可能是：当产品出现的时候，还没有更高密度的内存。例如 E480 出现的时候，还没有单条 32GB 的内存模块，只有最大单条 16Gb 的内存，所以官方没有验证过 32GB 的内存条到底是否可以用。作为官方，必然是保守的，所以他们声明的最大内存只能是 16GBx2=32GB。  
+  而后期，出现了 32GB 的单条内存，官方并不会去验证新出现的内存是否可以用。毕竟更新旧的各种文档，对官方来说，是很要命的事情。
 
 ## 2. 硬盘改造 - m.2 SSD
 
