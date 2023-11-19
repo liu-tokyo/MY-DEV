@@ -1,6 +1,4 @@
-# ThinkPad T480 硬件扩展
-
-> https://blog.kabocy.com/repair-custom/5062/
+# ThinkPad E480 硬件扩展
 
 该机价格低廉，但是拥有很好的硬件可扩展性，很多笔记本电脑缺乏这种可扩展性。当然了，一般也不需要什么扩展，购买的时候，保证电脑性能够用就好。
 
@@ -9,8 +7,8 @@
   内存容量（16GB、8GB x 2）（32GB、16GB x 2）  
   根据他人实践，该电脑支持 （64GB、32GB x 2）  
 
-  - Crucial 16GB DDR4-3200 SODIMM
-  - Crucial 8GB **DDR4-2666** SODIMM
+  - Crucial 16GB **DDR4-3200** SODIMM
+  - Crucial 8GB DDR4-2666 SODIMM
   - Crucial 8GB DDR4-3200 SODIMM
   - Crucial 4GB DDR4-2400 SODIMM（DDR4-2400　PC4-19200　SO-DIMM）
 
@@ -33,38 +31,47 @@
 
 ### 1.1 拆机
 
-- 拆卸电池  
-  ![img](https://i0.wp.com/object-storage.tyo1.conoha.io/v1/nc_87e0d0f3f9904537b1d6cf637a61937a/blog/2023-09-Image_20230927_111309_411.jpg?resize=750%2C562&ssl=1)
+- 将 ThinkPad E480 翻转过来，卸下圈出的所有螺丝。
 
-- 将 ThinkPad T480 翻转过来，卸下圈出的所有螺丝。  
-  ![img](https://i0.wp.com/object-storage.tyo1.conoha.io/v1/nc_87e0d0f3f9904537b1d6cf637a61937a/blog/2023-09-T4804-1024x768.jpg?resize=750%2C563&ssl=1)
-  
-- 拆开位置  
-    ![img](https://i0.wp.com/object-storage.tyo1.conoha.io/v1/nc_87e0d0f3f9904537b1d6cf637a61937a/blog/2023-09-T4806-1024x768.jpg?resize=750%2C563&ssl=1)
+  ![img](https://blog.kabocy.com/wp-dir/wp-content/uploads/2020/11/IMG_4952_R-1024x683.png)
 
-  拆开难度较大。
+- 将抹刀插入 ThinkPad E480 的一角，然后慢慢取下爪子。  
+    如果在这里用力过大，可能会折断爪子，损坏零件，甚至伤到自己，所以要小心。
 
-- 内存图像  
-  ![img](https://i0.wp.com/object-storage.tyo1.conoha.io/v1/nc_87e0d0f3f9904537b1d6cf637a61937a/blog/2023-09-T4807-1024x768.jpg?resize=750%2C563&ssl=1)
-  
-- 拆除内部电池  
-  ![img](https://i0.wp.com/object-storage.tyo1.conoha.io/v1/nc_87e0d0f3f9904537b1d6cf637a61937a/blog/2023-09-T4808-1024x768.png?resize=750%2C563&ssl=1)
-  
-- 内存插槽  
-![img](https://i0.wp.com/object-storage.tyo1.conoha.io/v1/nc_87e0d0f3f9904537b1d6cf637a61937a/blog/2023-09-T4809.jpg?resize=750%2C562&ssl=1)
+  ![img](https://blog.kabocy.com/wp-dir/wp-content/uploads/2020/11/IMG_4958_R-1024x683.png)
+
+- 当所有的爪子都被移除时，底盖就会从主体上脱落。  
+
+  ![img](https://blog.kabocy.com/wp-dir/wp-content/uploads/2020/11/IMG_4950_R-1024x683.png)
+
+- 打开ThinkPad E480的底盖，可以看到内存、M.2 SSD、2.5英寸（7mm厚）SATA存储、Wi-Fi卡、电池等。
+
+    ![ThinkPad E480のボトムカバーを外した様子](https://blog.kabocy.com/wp-dir/wp-content/uploads/2020/11/IMG_4896_R-1024x683.png)
 
 
 
 ### 1.2 取出内存
 
-- 从 ThinkPad T480 中取出内存。
-  ![img](https://i0.wp.com/object-storage.tyo1.conoha.io/v1/nc_87e0d0f3f9904537b1d6cf637a61937a/blog/2023-09-T48015.jpg?resize=750%2C485&ssl=1)
-  
+- 从 ThinkPad E480 中取出内存。  
+  向外移动每个锁定臂。
+
+  ![img](https://blog.kabocy.com/wp-dir/wp-content/uploads/2020/11/IMG_4909_R-1024x683.jpg)
+
 - 然后，DIMM 移动（竖起）大约 30 度，慢慢地将它从主板上取下。
 
   ![img](https://blog.kabocy.com/wp-dir/wp-content/uploads/2020/11/IMG_4921_R-1024x683.jpg)
 
-### 1.3 最大 64GB 内存支持
+### 1.3 插入新内存
+
+我这里用的是三星的16GB（8GB x 2）（推荐是Crucial的8GB x 2），不过32GB也可以装。 另外，虽然超过了厂商的最大容量，但似乎可以用64GB。
+
+- 将新内存插入插槽并向下推内存，直到它被锁定臂固定。
+  注）内存是有方向的，插入前检查槽口的位置。
+
+  ![img](https://blog.kabocy.com/wp-dir/wp-content/uploads/2020/11/IMG_4943_R-1024x683.jpg)
+
+
+### 1.4 最大 64GB 内存支持
 
 不管是 Lenovo 的官网、还是 Intel 的官网，i5-8250u 支持的最大内存都是 32GB。但是个别网站给的说明却是可以支持最大 64GB 的内存。
 
@@ -76,28 +83,14 @@
   大部分可能是：当产品出现的时候，还没有更高密度的内存。例如 E480 出现的时候，还没有单条 32GB 的内存模块，只有最大单条 16Gb 的内存，所以官方没有验证过 32GB 的内存条到底是否可以用。作为官方，必然是保守的，所以他们声明的最大内存只能是 16GBx2=32GB。  
   而后期，出现了 32GB 的单条内存，官方并不会去验证新出现的内存是否可以用。毕竟更新旧的各种文档，对官方来说，是很要命的事情。
 
-## 2. 硬盘改造 - M.2 SSD
+## 2. 硬盘改造 - m.2 SSD
 
-### 2.1 M.2 SSD - 2280
-
-ThinkPad T480的 m.2 SSD 支持高速PCIe连接和NVMe接口。
+ThinkPad E480的 m.2 SSD 支持高速PCIe连接和NVMe接口。
 可更换的 SSD 为 CT500P2SSD8 (500GB) 或 CT1000P2SSD8 (1TB)。
 
-- 拔除SSD连接线  
-![img](https://i0.wp.com/object-storage.tyo1.conoha.io/v1/nc_87e0d0f3f9904537b1d6cf637a61937a/blog/2023-09-T48013-1024x768.jpg?resize=750%2C563&ssl=1)
-- 拔除之后的图像  
-  ![img](https://i0.wp.com/object-storage.tyo1.conoha.io/v1/nc_87e0d0f3f9904537b1d6cf637a61937a/blog/2023-09-T48014-1024x768.jpg?resize=750%2C563&ssl=1)
-- 拆除固定螺丝  
-  ![img](https://i0.wp.com/object-storage.tyo1.conoha.io/v1/nc_87e0d0f3f9904537b1d6cf637a61937a/blog/2023-09-T48016-1.jpg?resize=750%2C562&ssl=1)
-- 取出硬盘盒  
-  ![img](https://i0.wp.com/object-storage.tyo1.conoha.io/v1/nc_87e0d0f3f9904537b1d6cf637a61937a/blog/2023-09-T48019.jpg?resize=750%2C562&ssl=1)
+- 拆卸时，拆下红色圈出的螺丝，轻轻取下立起的SSD。
 
-### 2.2 M.2 SSD - 2242
-
-这类SSD较少，估计很难买到，虽然大多数设备都有该接口，主要用于WIFI接口。
-
-- 设备位置  
-  ![img](https://i0.wp.com/object-storage.tyo1.conoha.io/v1/nc_87e0d0f3f9904537b1d6cf637a61937a/blog/2023-09-T4807-1.jpg?resize=750%2C562&ssl=1)
+  ![img](https://blog.kabocy.com/wp-dir/wp-content/uploads/2020/11/IMG_4908_R-1024x683.png)
 
 ## 3. Wi-Fi 模块拆卸
 

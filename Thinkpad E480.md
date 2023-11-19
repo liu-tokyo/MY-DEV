@@ -37,5 +37,54 @@
   | ★**電源管理**                                                |            |                                                              |                |
   | Lenovo 省電力ドライバー                                      |            | 1.68.37.0                                                    | 2023年3月8日   |
   
-  
 
+### CPU类型
+
+- Intel® Core™ i5-8250U Processor
+
+  https://www.intel.com/content/www/us/en/products/sku/124967/intel-core-i58250u-processor-6m-cache-up-to-3-40-ghz/specifications.html
+
+### 存储类型
+
+- USB 2.0/3.x Type-A
+
+- SSD - SATA 2.5-inch 7mm
+- Flash - microSDXC
+- USB 2.0/3.x Type-C
+- SSD - M.2 NVMe
+- SSD - M.2 PCIe
+
+## 电脑分解
+
+- 分解示意图  
+  ![img](https://blog.kabocy.com/wp-dir/wp-content/uploads/2020/11/IMG_4952_R-1024x683.png.webp)
+
+- 打开位置  
+  ![img](https://blog.kabocy.com/wp-dir/wp-content/uploads/2020/11/IMG_4958_R-1024x683.png.webp)
+
+- 主板图像  
+  ![ThinkPad E480のボトムカバーを外した様子](https://blog.kabocy.com/wp-dir/wp-content/uploads/2020/11/IMG_4896_R-1024x683.png.webp)
+
+  内存：2枚
+
+  硬盘：2块（SATA x 1， NVMe 2280 x 1）
+
+## 内存增设
+
+- 可交换内存数量：2枚
+
+- 最大内存（官方）：32GB（16GB x 2） `Memory Support: Max. Memory Size: 32 GB (DDR4-2400, LPDDR3-2133)`
+
+  https://blog.kabocy.com/repair-custom/1468/
+
+- 最大可能：64GB（32GB x 2）
+
+  https://www.compuram.biz/memory/lenovo/notebook/thinkpad/e-series/e480/
+
+## 硬盘更换
+
+硬盘：2块（SATA x 1， NVMe 2280 x 1）
+
+- 硬盘端口：M.2 SSD
+
+  支持高速 PCIe 连接和 NVMe 接口
