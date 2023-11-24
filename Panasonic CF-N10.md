@@ -12,9 +12,9 @@
 
   PCIデータ取得およびシグナル処理コントローラに該当するドライバは`Intel(R) Dynamic Platform & Thermal Framework` ドライバーをインストールすると認識しました。
 
-  需要安装 Windows8 的驱动，该型号没有 WIN8 的驱动，需要稍微新一点的型号 NX2：
+  需要安装 Windows8 的驱动，该型号没有 WIN8 的驱动，需要稍微新一点的型号 NX2：https://askpc.panasonic.co.jp/win8/up/
 
-  https://faq.askpc.panasonic.co.jp/faq/docs/003107
+  CF-NX2J、NX2K 系列更新模块：https://faq.askpc.panasonic.co.jp/faq/docs/003107
 
 - **不明なデバイス**
 
