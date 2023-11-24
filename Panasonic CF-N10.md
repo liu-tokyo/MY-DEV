@@ -6,7 +6,15 @@
 
 > 官方驱动下载地址：https://askpc.panasonic.co.jp/s/download/install/n10ewh.html#model2
 
+### 2.1 疑问解决
 
+- **PCIデータ取得およびシグナル処理コントローラー**
+
+  PCIデータ取得およびシグナル処理コントローラに該当するドライバは`Intel(R) Dynamic Platform & Thermal Framework` ドライバーをインストールすると認識しました。
+
+- **不明なデバイス**
+
+  `MEドライバー`
 
 ## 3. 设备升级
 
