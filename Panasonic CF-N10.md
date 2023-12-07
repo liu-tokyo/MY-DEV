@@ -14,11 +14,11 @@
 
   需要安装 Windows8 的驱动，该型号没有 WIN8 的驱动，需要稍微新一点的型号 NX2：https://askpc.panasonic.co.jp/win8/up/
 
-  CF-NX2J、NX2K 系列更新模块：https://faq.askpc.panasonic.co.jp/faq/docs/003107
+  CF-NX2J、NX2K 系列更新模块：https://faq.askpc.panasonic.co.jp/faq/docs/003107 (旧版本 6.x，新版本安装的话，导致无法启动)
 
 - **不明なデバイス**
 
-  `MEドライバー`
+  オプションの更新プログラム `Panasonic - System Devices for Panasonic OC`
 
 ## 3. 设备升级
 
@@ -54,3 +54,5 @@
   首先要去掉电池，只需要拆解2个螺丝。  
   ![img](https://office-mos.com/wp-content/uploads/2020/05/IMG_4764.jpg)  
   打开该连接，就可以抽出HDD。
+
+## 4. 其它事项

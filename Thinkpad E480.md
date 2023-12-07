@@ -54,6 +54,8 @@
 - SSD - M.2 NVMe
 - SSD - M.2 PCIe
 
+  NV2 M.2 (2280) PCIe NVMe Gen 4.0 (x4) SSD
+
 ## 电脑分解
 
 - 分解示意图  
@@ -88,3 +90,12 @@
 - 硬盘端口：M.2 SSD
 
   支持高速 PCIe 连接和 NVMe 接口
+
+## 各部分的名称及作用
+
+> https://download.lenovo.com/pccbbs/mobiles_pdf/e480_r480_ug_ja.pdf
+
+- 前面  
+  ![image-20231208003234190](images/image-20231208003234190.png)
+- 左侧面  
+  ![image-20231208003312771](images/image-20231208003312771.png)
