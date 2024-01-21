@@ -2,6 +2,14 @@
 
 ## 1. 设备配置
 
+| 项目   | 配置          | 备注         |
+| ------ | ------------- | ------------ |
+| ＣＰＵ | Core i5 2520M | 2.5GHz/2コア |
+| 内存   | 4GB           | 最大16GB     |
+| 重量   | 1.27kg        |              |
+
+
+
 ## 2. 驱动安装
 
 > 官方驱动下载地址：https://askpc.panasonic.co.jp/s/download/install/n10ewh.html#model2
