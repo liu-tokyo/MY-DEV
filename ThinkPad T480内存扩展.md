@@ -62,7 +62,7 @@
   
 - 然后，DIMM 移动（竖起）大约 30 度，慢慢地将它从主板上取下。
 
-  ![img](https://blog.kabocy.com/wp-dir/wp-content/uploads/2020/11/IMG_4921_R-1024x683.jpg)
+  ![img](https://i0.wp.com/object-storage.tyo1.conoha.io/v1/nc_87e0d0f3f9904537b1d6cf637a61937a/blog/2023-09-T48015.jpg?resize=750%2C485&ssl=1)
 
 ### 1.3 最大 64GB 内存支持
 
