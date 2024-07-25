@@ -72,7 +72,7 @@
   can not determine the mainboard
   ```
   
-  ※原因：下载了错我的电脑的BIOS更新程序。
+  ※原因：下载了错误的电脑的BIOS更新程序。
 
 - dynabook Satellite B652/G、B552/G、B452/G シリーズ Windows 7 Professional SP1 64bit アップグレードモジュール
 
@@ -122,3 +122,22 @@ Windows10的话，几乎所有硬件都可以自动识别出来，Windows7 的�
 | [TOSHIBA Security Assist](https://dynabook.com/assistpc/download/win7/navigate/satellite/b652f/sp1/64bit/sab652fread7sp164.htm#tsecurity) | 2.0.10                 | 6.72MB | ✔✔       |                                                              |
 | [オンラインマニュアル](https://dynabook.com/assistpc/download/win7/navigate/satellite/b652f/sp1/64bit/sab652fread7sp164.htm#manual) | 0001.1202              | 14.5MB |          |                                                              |
 | [TPM Manual](https://dynabook.com/assistpc/download/win7/navigate/satellite/b652f/sp1/64bit/sab652fread7sp164.htm#tpm_m) | 300.022.0001           | 6.61MB |          |                                                              |
+
+### 7. 硬件升级
+
+- 内存升级
+
+  只需要拆开一个螺丝
+
+- 硬盘升级
+
+  只需要拆开一个螺丝
+
+- 只有更复杂的硬件升级，才需要拆开背面所有螺丝。
+
+  https://dynabook.biz/fan/13580/
+
+  ![img](https://dynabook.biz/wp/wp-content/uploads/2017/12/b450_1.jpg)
+
+  
+
