@@ -15,3 +15,7 @@ https://download-drv.com/contents/drivers/toshiba/SatelliteB/SatelliteB55101.htm
 - BIOS
 
   https://dynabook.com/assistpc/download/modify/dynabook/az55/xxf/bios/index_j.htm
+
+- DRIVER
+
+  https://www.driverscape.com/manufacturers/toshiba/laptops-desktops/dynabook-satellite-b551-c/14194
