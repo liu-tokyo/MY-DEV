@@ -12,7 +12,22 @@
 
 ## 2. 驱动安装
 
-> 官方驱动下载地址：https://askpc.panasonic.co.jp/s/download/install/n10ewh.html#model2
+> 官方驱动下载地址：https://askpc.panasonic.co.jp/s/download/install/n10ewh.html#model2  
+> https://askpc.panasonic.co.jp/s/download/install/n10ath.html
+>
+> https://ikt-s.com/cf-lx4-drivers/
+>
+> https://ikt-s.com/cf-lx4-drivers/
+>
+> https://ikt-s.com/cf-lx4-drivers/
+
+| 硬件ID                                       |                                                              |                                |
+| -------------------------------------------- | ------------------------------------------------------------ | ------------------------------ |
+| PCI\VEN_8086&DEV_0103&SUBSYS_833810F7&REV_09 | Intel(R) Dynamic Platform and Thermal Framework<br/> Processor Participant Driver for Panasonic |                                |
+| ACPI\VEN_MAT&DEV_0019                        | Microsoft ACPI-Compliant System                              | System Interface Device Driver |
+|                                              |                                                              |                                |
+
+
 
 ### 2.1 疑问解决
 

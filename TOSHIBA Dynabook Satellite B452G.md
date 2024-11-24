@@ -74,7 +74,7 @@
   can not determine the mainboard
   ```
   
-  ※原因：下载了错误的电脑的BIOS更新程序。
+  ※ 原因：下载了错误的电脑的BIOS更新程序。
 
   下载的主板驱动有问题，正确的链接如下：
 
@@ -147,3 +147,7 @@ Windows10的话，几乎所有硬件都可以自动识别出来，Windows7 的�
 
   
 
+### 8. 进入BIOS
+
+- 在 `In Touch with Tomorrow TOSHIBA` 表示之后，按下 F2 键，就会进入 BIOS 设置画面。
+- 按下 `Delele` 键，也能进入 BIOS 设置画面面，虽然提示画面没有该信息（过去老旧电脑都是按 DEL 键进入 BIOS）。
