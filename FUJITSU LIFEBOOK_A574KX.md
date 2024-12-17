@@ -1,48 +1,10 @@
-# 富士通 
-
-## LIFEBOOK A573/GX
-
-> FMVA0301WP
-
-### 1. 设备规格
-
-### 2. 设备性能
-
-| 型号          | 性能          | 备注                              |
-| ------------- | ------------- | --------------------------------- |
-| Core i5 3340M | **1652/2694** | CPU First Seen on Charts: Q1 2013 |
-| -             |               |                                   |
-| -             |               |                                   |
-
-### 3. 驱动更新
-
-- 官方网址：  
-  https://azby.fmworld.net/app/customer/driversearch/pc/drvindex?mode=1
-  
-- Windows10未能自动识别的硬件
-
-  | 硬件名称           | 硬件ID                                         | 驱动                                                         |
-  | ------------------ | ---------------------------------------------- | ------------------------------------------------------------ |
-  | PCI 简单通讯控制器 | `PCI\VEN_8086&DEV_1E3A&SUBSYS_16EA10CF&REV_04` | [Intel(R) Management Engine Interface](https://support.ts.fujitsu.com/indexdownload.asp?Softwareguid=74b3ce78-487d-4472-97eb-d550dfe0ecdd) |
-  |                    |                                                |                                                              |
-  |                    |                                                |                                                              |
-
-  
-
-### 4. 硬件升级
-
-- 硬盘交换  
-  https://bunkaikoubou.jp/fmv/a573g/a573g_1hdd.html
-
-### 5. 系统安装
-
-
-
-## LIFEBOOK A574/KX
+# 富士通 - LIFEBOOK A574/KX
 
 > FMVA0802YP
 
-### 2. 设备性能
+## 1. 设备配置
+
+## 2. 设备性能
 
 | 型号                          | 性能          | 备注                              |
 | ----------------------------- | ------------- | --------------------------------- |
@@ -50,9 +12,21 @@
 | -                             |               |                                   |
 | -                             |               |                                   |
 
-### 4. 硬件升级
+## 3. 驱动更新
 
-#### 4.1 更换硬盘
+- Windows10 安装之后未能正确识别的设备列表：
+
+  | 设备名称     | 硬件ID                                       | 驱动名称                                                     |
+  | ------------ | -------------------------------------------- | ------------------------------------------------------------ |
+  | SM总线空制器 | PCI\VEN_8086&DEV_8C22&SUBSYS_17CF10CF&REV_04 | [Synaptics SMBus Driver](https://www.driverscape.com/manufacturers/fujitsu/laptops-desktops/lifebook-e734/155912) |
+  |              |                                              |                                                              |
+  |              |                                              |                                                              |
+
+  
+
+## 4. 硬件升级
+
+### 4.1 更换硬盘
 
 > https://bunkaikoubou.jp/fmv/a573g/a573g_1hdd.html
 

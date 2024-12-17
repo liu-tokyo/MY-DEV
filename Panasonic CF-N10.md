@@ -2,13 +2,15 @@
 
 ## 1. 设备配置
 
-| 项目   | 配置          | 备注         |
-| ------ | ------------- | ------------ |
-| ＣＰＵ | Core i5 2520M | 2.5GHz/2コア |
-| 内存   | 4GB           | 最大16GB     |
-| 重量   | 1.27kg        |              |
+| 项目               | 配置                | 备注         |
+| ------------------ | ------------------- | ------------ |
+| ＣＰＵ             | Intel Core i5 2540M | 2.5GHz/2コア |
+| 内存               | 4GB                 | 最大16GB     |
+| 重量               | 1.27kg              |              |
+| BIOS               | V3.00L16            |              |
+| INTEL® ME Firmware | 7.1.14.1107         |              |
 
-
+安装 Windows10 之后，速度很慢的原因：https://kekaku.addisteria.com/wp/20190504005219
 
 ## 2. 驱动安装
 
@@ -21,13 +23,21 @@
 >
 > https://ikt-s.com/cf-lx4-drivers/
 
-| 硬件ID                                       |                                                              |                                |
-| -------------------------------------------- | ------------------------------------------------------------ | ------------------------------ |
-| PCI\VEN_8086&DEV_0103&SUBSYS_833810F7&REV_09 | Intel(R) Dynamic Platform and Thermal Framework<br/> Processor Participant Driver for Panasonic |                                |
-| ACPI\VEN_MAT&DEV_0019                        | Microsoft ACPI-Compliant System                              | System Interface Device Driver |
-|                                              |                                                              |                                |
+- Windows10 安装之后无法自动识别的硬件
 
+  | 硬件名称                    | 硬件ID                                       | 驱动名称                                                     | 驱动下载                                                     |
+  | --------------------------- | -------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | PCI串行端口                 | PCI\VEN_8086&DEV_1C3D&SUBSYS_833810F7&REV_04 | Intel® Active Management Technology- SOL                     | ✅官方下载 `ME ドライバー`                                    |
+  | PCI简单通讯控制器           | PCI\VEN_8086&DEV_1C3A&SUBSYS_833810F7&REV_04 | Intel® Management Engine Interface                           | ✅〃 (※3)                                                     |
+  | PCI设备                     | PCI\VEN_10EC&DEV_5209&SUBSYS_833810F7&REV_01 | Realtek PCIE CardReader Drivers                              | ❌[INTEL官网](https://www.intel.com/content/www/us/en/download/19417/realtek-card-reader-driver-for-windows-10-64-bit-for-intel-nuc6cayh-nuc6cays.html) 下载最新驱动 |
+  | PCI数据捕获和信号处理控制器 | PCI\VEN_8086&DEV_0103&SUBSYS_833810F7&REV_09 | Intel Dynamic Platform and Thermal Framework                 | ❌可选驱动<br />`Intel - DPTF - 8.1.10605.221` 第一个 (※2)    |
+  | 未知设备                    | ACPI\VEN_MAT&DEV_0019                        | Microsoft ACPI-Compliant System<br />System Interface Device Driver | ❌Intel Smart Connect Technology (※1)                         |
 
+  ※1 `Windows 10` 不支持英特尔智能连接`(Intel Smart Connect Technology`)技术。准确地说，英特尔智能连接技术是一项已停产的技术。  
+  　解决方案是在 BIOS (UEFI) 中禁用英特尔智能连接技术。  
+  ※2 不能使用 INTEL 的最新驱动，会直接导致画面蓝屏。  
+  ※3 ME 的版本一旦升级为最新版本，则系统几乎无法运转。一旦安装了 INTEL 最新的 11 的版本，一样会出现问题；  
+  　所以，不能安装 INTEL 的驱动安装助手之类的软件，导致无故被升级到最新版本的驱动。
 
 ### 2.1 疑问解决
 

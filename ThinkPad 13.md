@@ -1,6 +1,6 @@
-## ThinkPad 13
+## ThinkPad 13 Gen 2
 
-> 这款机器是不附带 **M.2** 固态硬盘接口的，机器只有一个 SATA 硬盘位，可以将机械硬盘替换成 SATA 接口的固态硬盘。
+> 这款电脑是不附带 **M.2** 固态硬盘接口的，机器只有一个 SATA 硬盘位，可以将机械硬盘替换成 SATA 接口的固态硬盘。
 >
 > 型号：20J2-A0C1JP
 >
@@ -18,9 +18,9 @@
 | プロセッサー動作周波数                    | 1.80 GHz                                                     |      |
 | 製品名称                                  | ThinkPad 13                                                  |      |
 | 初期導入OS                                | Windows 10 Pro 64bit (日本語版)                              |      |
-| 主記憶(RAM)容量                           | 4 GB                                                         |      |
+| 主記憶(RAM)容量                           | 4 GB                                                         | 升级 8GB |
 | 主記憶(RAM)スロット数                     | 2                                                            |      |
-| ストレージ (SSDまたはeMMC)                | 256 GB                                                       |      |
+| ストレージ (SSDまたはeMMC)                | 256 GB                                                       | M.2 2280/SATA |
 | ストレージタイプ                          | SSD                                                          |      |
 | 製品型番                                  | 20J1A007JP                                                   |      |
 | 発表日                                    | 2017年 4月 25日                                              |      |
@@ -140,10 +140,15 @@
 
 ### 3. 驱动更新
 
-> 官方网址：https://pcsupport.lenovo.com/jp/ja/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-13/downloads/driver-list
+> - 官方网址：  
+>   https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-13-series-laptop/thinkpad-13-type-20j1-20j2/downloads/driver-list
 >
-> 联想驱动工具：https://newsupport.lenovo.com.cn/driveDownloads_index.html  
-> 　　需要把内核语言修改为 中文简体 之后，再安装该工具比较合适，否则可能出现乱码。好像是多虑了，最新版本已经能够对应日文。
+> - 联想驱动工具：  
+>   https://newsupport.lenovo.com.cn/driveDownloads_index.html    
+>   ※ 需要把内核语言修改为 中文简体 之后，再安装该工具比较合适，否则可能出现乱码（好像是多虑了，最新版本已经能够对应日文）。
+
+- BIOS  
+  `1.33` 最新状态。
 
 ### 4. 硬件升级
 

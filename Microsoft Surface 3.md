@@ -1,10 +1,12 @@
 # Microsoft Surface 3
 
-> 销售说明：https://news.microsoft.com/ja-jp/2015/05/19/150519-surface3/
+> 销售说明：https://news.microsoft.com/ja-jp/2015/05/19/150519-surface3/  
+> 型号：1657 （LTE） SIM卡的插入口在底部左侧）  
+> Softbank的说明网页：https://www.softbank.jp/biz/mobile/lineup/tablet_pc/surface3/spec/
 
 ## 1. 技术规格
 
-|                   |                                                              |
+| 项目              | 说明                                                         |
 | ----------------- | ------------------------------------------------------------ |
 | 尺寸              | 267x187x8.7mm                                                |
 | 重量              | 622g                                                         |
@@ -187,7 +189,7 @@ Surface 3 为企业和学校带来更广泛的选择。在 Surface 3 上市之�
 
 微软Windows 10操作系统已经正式发布，身为公司顶级平板产品的（Surface 3）自然不会缺席新系统。（Surface 3）可以免费升级到 Windows 10版。所有升级到 Windows 10的设备，微软都将提供永久生命周期的支持.   
 Surface 3如何升级win 10 ？
-1. 请单击位于Surface 3平板电脑任务栏右下角的 Windows 10 图标。
+1. 请单击位于`Surface 3`平板电脑任务栏右下角的 Windows 10 图标。
 2. Surface 3 在“获取 Windows 10”应用中，单击应用窗口中的“预订免费升级”。
 3. 如果您想要确认此预订，请输入您的电子邮件地址。Windows 10 下载到您的Surface 3设备上，并在完成后通知您。如果您想要创建 USB 驱动器或 DVD 可以一次性下载并升级多台 PC
 

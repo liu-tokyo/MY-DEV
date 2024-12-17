@@ -86,6 +86,18 @@
 
 Windows10的话，几乎所有硬件都可以自动识别出来，Windows7 的话，首先无线网卡就无法识别，首先是有网络之后，才能干其它的事情。
 
+未能识别的硬件列表：
+
+| 设备名称                   | 硬件ID                                                   |                                                              |
+| -------------------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
+| PCI简单通讯控制器          | PCI\VEN_8086&DEV_1E3A&SUBSYS_00011179&REV_04             | [Intel Chipset Device Software](https://pcsupport.lenovo.com/id/en/downloads/ds118691) |
+| 基本系统设备               | PCI\VEN_1180&DEV_E823&SUBSYS_00011179&REV_04             | Ricoh PCIe SDXC/MMC Host Controller Drivers<br />可选驱动    |
+| 基本系统设备               | PCI\VEN_1180&DEV_E232&SUBSYS_00011179&REV_04             | Ricoh Media Card Reader Driver<br />可选驱动                 |
+| 基本系统设备               | PCI\VEN_1180&DEV_E852&SUBSYS_00011179&REV_07             | PCI\VEN_1180&DEV_E852&SUBSYS_00011179&REV_07<br />可选驱动   |
+| High Definition Audio 设备 | HDAUDIO\FUNC_01&VEN_8086&DEV_2806&SUBSYS_11790001&REV_10 | [Intel(R) Display Audio](https://www.driverscape.com/manufacturers/toshiba/laptops-desktops/dynabook-satellite-b452-g/6146)<br />英特尔(R) 显示器音频 |
+
+
+
 ### 6. 更新列表
 
 | 名称                                                         | バージョン             | サイズ | 处理标志 | 注意事項                                                     |
@@ -151,3 +163,9 @@ Windows10的话，几乎所有硬件都可以自动识别出来，Windows7 的�
 
 - 在 `In Touch with Tomorrow TOSHIBA` 表示之后，按下 F2 键，就会进入 BIOS 设置画面。
 - 按下 `Delele` 键，也能进入 BIOS 设置画面面，虽然提示画面没有该信息（过去老旧电脑都是按 DEL 键进入 BIOS）。
+
+| #     | BIOS VER | EC VER | 备注           |
+| ----- | -------- | ------ | -------------- |
+| 设备1 | 6.30     | 1.00   | 损坏诚度比较大 |
+| 设备2 |          |        |                |
+
