@@ -2,17 +2,17 @@
 
 ## 1. 电脑配置
 
-| 项目         | 说明                                     | 备注                      |
-| ------------ | ---------------------------------------- | ------------------------- |
-| CPU          | Intel Core i5-5300U @ 2.30GHz            | `1632`/`2730` - `Q1 2015` |
-| 内存         | 8GB                                      | `PC3-12800 DDR3L SDRAM`   |
-| 硬盘         | 256GB（SSD）                             |                           |
-| 主机编号     | 20CLS2A11JPCO7P713                       | WDCWDS250G2B0A-00SM50     |
-| 主板         | 20CLS2A11J（SDKOE50510WIN）              |                           |
-| 网卡（有线） | Intel(R）Ethernet Connection (3）1218-LM |                           |
-| 网卡（无线） | Intel（R) Dual Band Wireless-AC 7265     |                           |
-| 声卡         | Realtek High Definition Audio            |                           |
-| 显卡         | Microsoft Remote Display Adapte          |                           |
+| 项目         | 说明                                        | 备注                      |
+| ------------ | ------------------------------------------- | ------------------------- |
+| CPU          | Intel Core i5-5300U @ 2.30GHz               | `1632`/`2730` - `Q1 2015` |
+| 内存         | 8GB                                         | `PC3-12800 DDR3L SDRAM`   |
+| 硬盘         | 256GB（SSD）                                |                           |
+| 主机编号     | 20CLS2A11JPCO7P713                          | WDCWDS250G2B0A-00SM50     |
+| 主板         | 20CLS2A11J（SDKOE50510WIN）<br />20CLA03PJP |                           |
+| 网卡（有线） | Intel(R）Ethernet Connection (3）1218-LM    |                           |
+| 网卡（无线） | Intel（R) Dual Band Wireless-AC 7265        |                           |
+| 声卡         | Realtek High Definition Audio               |                           |
+| 显卡         | Microsoft Remote Display Adapte             |                           |
 
 
 
@@ -34,3 +34,5 @@
 
 ### 3. 设备升级
 
+- 设备分解  
+  https://jp.ifixit.com/Guide/Lenovo+ThinkPad+X250+Ram+-+Storage+Replacement/178042?lang=en

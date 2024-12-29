@@ -12,7 +12,7 @@
 | 设备                              | 型号           | IP地址        | CPU型号               | 备注                     |
 | --------------------------------- | -------------- | ------------- | --------------------- | ------------------------ |
 | DELL INSPIRON 1545                |                |               | Intel Core2 Duo P8400 | 张冬的电脑、性能严重不足 |
-| FUJITSU LIFEBOOK A573/GX          | FMVA0301WP     | 192.168.5.88  | Intel Core i5-3340M   |                          |
+| FUJITSU LIFEBOOK A573/GX          | FMVA0301WP     | 192.168.5.87  | Intel Core i5-3340M   |                          |
 | FUJITSU LIFEBOOK A574/KX          | FMVA0802YP     | 192.168.5.150 | Intel Celeron 2950M   |                          |
 | KURO-DACHI_CLONE_U3               |                |               |                       |                          |
 | Lenovo G580                       | 2189           | 192.168.5.206 |                       |                          |
@@ -21,14 +21,16 @@
 | Panasonic CF-N10                  | CF-N10EWHDS    | 192.168.5.165 | Intel Core i5-2540M   |                          |
 | Panasonic CF-SZ5                  | CF-SZ5PDA5S    | 192.168.5.60  | Intel Core i5-6300U   | 4GB内存+256GB-SSD        |
 | 〃                                | CF-SZ5PDY6S    | 192.168.5.53  | Intel Core i5-6300U   | 8GB内存+256GB-SSD        |
-| Lenovo Thinkpad 13                | 20J2A0C1JP     | 192.168.5.158 | Intel Celeron 3865U   | 8GB内存+128GB-SSD        |
+| Lenovo Thinkpad 13                | 20J2A0C1JP     | 192.168.5.157 | Intel Celeron 3865U   | 8GB内存+128GB-SSD        |
 | Lenovo S510 small                 |                |               |                       |                          |
 | ThinkCentre M92 Tower             |                |               |                       |                          |
 | ThinkPad E450                     |                |               |                       |                          |
 | Thinkpad E480                     |                |               | Intel Core i5-8250U   | 本人工作用电脑           |
 | ThinkPad E480内存扩展             |                |               |                       |                          |
 | ThinkPad T480内存扩展             |                |               | Intel Core i5-8250U   |                          |
+| Thinkpad X240                     |                | 192.168.5.88  | Intel Core i3-4010U   |                          |
 | Thinkpad X250                     |                | 192.168.5.87  | Intel Core i5-5300U   |                          |
+| 〃                                |                | 192.168.5.116 | Intel Core i5-5200U   |                          |
 | Thinkpad X280                     |                |               | Intel Core i5-8250U   |                          |
 | Thinkpad X61s                     |                | 192.168.5.248 | Intel Core2 Duo L7300 | 4GB内存+256GB-HDD        |
 | TOSHIBA Dynabook Satellite B452/G | PB452GNBPR7A71 | 192.168.5.75  | Intel Celeron B830    | Gitlab服务器             |
@@ -74,8 +76,10 @@
 | Intel Core i7-6820HQ @ 2.70GHz  |  4/8  |     1953 |     6817 | Q4 2015  |        - |        45 W |       - |                           |
 | Intel Core i5-6300U @ 2.40GHz   |  2/4  |     1657 |     3232 | Q3 2015  |        - |        15 W |       - | Panasonic  CF-SZ5         |
 | Intel Core i5-5300U @ 2.30GHz   |  2/4  |     1632 |     2730 | Q1 2015  |        - |        15 W |       - | Thinkpad X250             |
+| Intel Core i5-5200U @ 2.20GHz   |  2/4  |     1496 |     2499 | Q4 2014  |        - |        15 W |       - | Thinkpad X250             |
 | Intel Core i5-4300U @ 1.90GHz   |  2/4  |     1482 |     2495 | Q3 2013  |        - |        15 W |       - |                           |
 | Intel Core i5-4200U @ 1.60GHz   |  2/4  |     1287 |     2180 | Q1 2013  |        - |        15 W |       - |                           |
+| Intel Core i3-4010U @ 1.70GHz   |  2/4  |      903 |     1659 | Q1 2013  |        - |        15 W |       - | Thinkpad X240             |
 | Intel Core i5-3340M @ 2.70GHz   |  2/4  |     1652 |     2695 | Q1 2013  |        - |        35 W |       - | LIFEBOOK A573/GX          |
 | Intel Core i5-3210M @ 2.50GHz   |  2/4  |     1525 |     2464 | Q1 2012  |        - |        35 W |       - | Lenovo G580               |
 | Intel Celeron 3865U @ 1.80GHz   |  2/2  |     1034 |     1321 | Q2 2017  |     10 W |        15 W |       - | Lenovo ThinkPad 13        |
@@ -111,3 +115,13 @@
 
 相较于老版本的 XP，从 WIN7 开始，进入安全模式的方法已经改变，请参阅如下网址：  
 https://pcsupport.lenovo.com/in/ja/products/laptops-and-netbooks/lenovo-g-series-laptops/lenovo-g580-notebook/solutions/HT116905
+
+## 5. BIOS 彻底清零
+
+- 拔掉BIOS线后要长按电源5秒以上，才能彻底清零；
+- 长按5秒以上，三次，复位。
+
+## 6. 驱动下载网站
+
+- https://www.driverscape.com  
+  在该网站几乎都能找到合适的驱动程序，针对每一型号的电脑，都有专门的网页展示所有的驱动。
