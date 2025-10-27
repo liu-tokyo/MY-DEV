@@ -1,5 +1,7 @@
 # Lenovo Thinkpad 13 20J2A0C1JP
 
+Lenovo ThinkPad 13 型号 **20J2A0C1JP** 是该系列中的一个**低配版本**，它基于 **ThinkPad 13 的第二代 (Gen 2)** 平台，搭载了较低功耗的 Intel Celeron 处理器。
+
 ## 商品情報
 
 - 详细配置
