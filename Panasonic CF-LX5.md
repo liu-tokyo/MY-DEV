@@ -66,6 +66,16 @@
 
 ### 3.2 硬盘更换
 
+> 电脑原装的硬盘信息：
+>
+> ```
+> Model                 FirmwareRevision
+> -----                 ----------------
+> TOSHIBA THNSNF128GCSS FSPAN102
+> ```
+>
+> ※ *感觉东芝的 SSD 的磁盘效果就是很好，磁盘的 `平均响应时间` 非常短。*
+
 - SATA
 - m2.SATA
 
@@ -151,3 +161,16 @@
 ### 7.2 CF-LX5PDT5S
 
 和 `LX5PDT6S` 的区别是，内存只有 4GB，且 SSD 也只有 128GB，运行 WIN10 和 WIN11 稍微有压力，尤其是有大型 Windows 更新的时候，因为内存不足，会很花费时间。
+
+
+
+#### Windows11安装
+
+安装之后安装如下驱动：
+
+- INTEL INF
+- INTEL驱动安装助手
+- INTEL ME  
+  INTEL 官方下载
+- Intel(R) Dynamic Platform and Thermal Framework (Intel(R) DPTF), Client Version 8.X  
+  Panasonic官方下载
