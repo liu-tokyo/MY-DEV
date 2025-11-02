@@ -37,7 +37,7 @@
 
   
 
-### 3. 设备升级
+## 3. 设备升级
 
 - 设备分解  
   https://jp.ifixit.com/Guide/Lenovo+ThinkPad+X250+Ram+-+Storage+Replacement/178042?lang=en
