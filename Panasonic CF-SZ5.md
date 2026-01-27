@@ -4,11 +4,11 @@
 
 ## 1. 设备配置
 
-|      |                               |      |
-| ---- | ----------------------------- | ---- |
-| CPU  | Intel Core i5-6300U @ 2.40GHz |      |
-| 硬盘 | SSD 256GB                     |      |
-|      |                               |      |
+|          |                                                              |      |
+| -------- | ------------------------------------------------------------ | ---- |
+| CPU      | Intel Core i5-6300U @ 2.40GHz                                |      |
+| 硬盘     | SSD 256GB                                                    |      |
+| BIOS更新 | https://jp-pc-support.connect.panasonic.com/dldocs/105106?utm_source=chatgpt.com |      |
 
 CT250MX500SSD1：`Crucial MX500 250GB 3D NAND SATA 2.5インチ 7mm（9.5mmアダプター付き）`
 
