@@ -14,6 +14,10 @@
 
 ## 3. 驱动更新
 
+- 官方驱动网址：  
+  https://www.fmworld.net/biz/fmv/support/download/2014_2/lifebook/  
+  https://azby.fmworld.net/app/customer/driversearch/pc/drvlist
+
 - Windows10 安装之后未能正确识别的设备列表：
 
   | 设备名称     | 硬件ID                                       | 驱动名称                                                     |
