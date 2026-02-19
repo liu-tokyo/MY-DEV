@@ -83,3 +83,7 @@ reg add "HKCU\Software\Classes\CLSID\{d93ed569-3b3e-4bff-8355-3c44f6a52bb5}\Inpr
 reg delete "HKCU\Software\Classes\CLSID\{d93ed569-3b3e-4bff-8355-3c44f6a52bb5}" /f
 ```
 
+```
+reg add "HKCU\Software\Microsoft\Windows\DWM" /v "ForceEffectMode" /t REG_DWORD /d 0 /f
+```
+
