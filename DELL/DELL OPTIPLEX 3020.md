@@ -1,4 +1,4 @@
-# DELL OPTIPLEX 3020
+# DELL OPTIPLEX 3020 台式机
 
 > **家用服务器（Gitlab服务 + 文件服务）**
 
