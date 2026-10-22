@@ -125,3 +125,16 @@ https://pcsupport.lenovo.com/in/ja/products/laptops-and-netbooks/lenovo-g-series
 
 - https://www.driverscape.com  
   在该网站几乎都能找到合适的驱动程序，针对每一型号的电脑，都有专门的网页展示所有的驱动。
+
+## 7. 机械磁盘选择
+
+| 厂家           | 型号                           | 代表型号                        | 说明                         |
+| -------------- | ------------------------------ | ------------------------------- | ---------------------------- |
+| WD - 西部数据  | Black 系列                     | `WD1002FAEX`                    | 高端桌面 / 游戏电脑          |
+|                | Black RE3、Black RE4           | `WD1003FBYX`                    | 企业级 / 服务器 / NAS / RAID |
+|                | Gold 系列                      | `WD161KRYZ`                     | 企业数据中心                 |
+| Seagate - 希捷 | Barracuda (酷鱼)               | `ST1000DM003` / `ST1000DM010`   | 追求单盘爆发读写速度         |
+|                | Constellation ES / Exos (银河) | `ST1000NM0011` / `ST1000NM0033` | 高端桌面 / 游戏电脑          |
+| Toshiba - 东芝 | P300 系列                      | `HDWD110UZSVA`                  | 高性能桌面级                 |
+|                | MG 系列                        | `MG03ACA100`                    | 企业级 / 服务器级            |
+
