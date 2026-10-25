@@ -2,17 +2,17 @@
 
 ## 各项性能比较
 
-| 型号                         |   容量 | 规格      | 特色         |  寿命[TBW] |   持续读取 |   持续写入 | 缓存 | 备注     |
-| ---------------------------- | -----: | --------- | ------------ | ---------: | ---------: | ---------: | ---- | -------- |
-| SAMSUNG MZ7LM480HCHP-00003   |  480GB | SATA -7mm | 企业级 - MLC |    700 TBW |    550MB/s |    550MB/s |      |          |
-| SAMSUNG MZVLB512HBJQ-000L7   |  512GB | PCIe 3.0  | 旗舰级       |    300 TBW | 3,500 MB/s | 3,000 MB/s |      | PM981a   |
-| Crucial MX500 CT500MX500SSD1 |        |           |              |    180 TBW |            |            |      |          |
-| W.D. Black SN750 WDS500G3X0C |        |           | 旗舰级       |    300 TBW |            |            |      |          |
-| Lenovo MTFDDAK800MBB         |        |           | 企业级 - MLC |  1,900 TBW |   425 MB/s |   375 MB/s |      |          |
-| Intel 760p SSDPEKKW010T8X1   | 1000GB | PCIe 3.0  | 企业级       |    576 TBW |            |            |      |          |
-| INTEL SSDSC2BX016T4R         | 1600GB | SATA -7mm | 企业级 - MLC | 10,700 TBW |   550 MB/s |   500 MB/s |      |          |
-| CFD CSSD-M2B1TPG3VNF         | 1000GB | PCIe 4.0  | 消费级       |  3,600 TBW | 5,000 MB/s | 4,400 MB/s |      | 热控逊色 |
-| CFD CSSD-S6B02TMG4VT         | 2000GB | SATA -7mm | 消费级       |  3,000 TBW |   560 MB/s |   540 MB/s |      | MG4VT    |
+| 型号                   |   容量 | 规格     | 特色         |  寿命[TBW] |   持续读取 |   持续写入 | 备注   |
+| ---------------------- | -----: | -------- | ------------ | ---------: | ---------: | ---------: | ------ |
+| SAMSUNG MZ7LM480HCHP   |  480GB | 7mm      | 企业级 - MLC |    700 TBW |   540 MB/s |   480 MB/s | PM863  |
+| SAMSUNG MZVLB512HBJQ   |  512GB | PCIe 3.0 | 旗舰级       |    300 TBW | 3,500 MB/s | 3,000 MB/s | PM981a |
+| Crucial CT500MX500SSD1 |  500GB | 7mm      | 消费级       |    180 TBW |   560 MB/s |   510 MB/s | MX500  |
+| W.D. Black WDS500G3X0C |  500GB | PCIe 3.0 | 旗舰级       |    300 TBW | 3,470 MB/s | 2,600 MB/s | SN750  |
+| Lenovo MTFDDAK800MBB   |  800GB | 7mm      | 企业级 - MLC |  1,900 TBW |   425 MB/s |   375 MB/s | M500DC |
+| INTEL SSDPEKKW010T8X1  | 1000GB | PCIe 3.0 | 企业级       |    576 TBW |            |            | 760p   |
+| INTEL SSDSC2BX016T4R   |  1600G | 7mm      | 企业级 - MLC | 10,700 TBW |   550 MB/s |   500 MB/s | SC2BX  |
+| CFD CSSD-M2B1TPG3VNF   | 1000GB | PCIe 4.0 | 消费级       |  3,600 TBW | 5,000 MB/s | 4,400 MB/s | PG3VNF |
+| CFD CSSD-S6B02TMG4VT   | 2000GB | 7mm      | 消费级       |  3,000 TBW |   560 MB/s |   540 MB/s | MG4VT  |
 
 
 
